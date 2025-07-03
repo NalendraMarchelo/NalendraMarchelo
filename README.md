@@ -122,9 +122,6 @@ My previous projects were centered around **Digital Image Processing** and **Com
   <a href="https://github.com/NalendraMarchelo">
     <img src="https://github-readme-stats.vercel.app/api?username=NalendraMarchelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Nalendra Marchelo's GitHub Stats"/>
   </a>
-  <a href="https://github.com/NalendraMarchelo">
-    <img src="https://https://streak-stats.demolab.com/?user=NalendraMarchelo&theme=dracula" alt="GitHub Streak" alt="Nalendra Marchelo's GitHub Streak"/>
-  </a>
 </p>
 
 ---
