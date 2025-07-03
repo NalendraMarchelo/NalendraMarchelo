@@ -1,14 +1,15 @@
 # Hi there, I'm Nalendra Marchelo! 👋
 
 <p align="center">
-  <a href="https://github.com/NalendraMarchelo"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB2dGF4dGhrbWJ2eXN6eTNmb2o3a3M3eGswZ2h0MHk2a2t6dHEzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px" alt="Hello!"/>
+  <a href="https://github.com/NalendraMarchelo">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB2dGF4dGhrbWJ2eXN6eTNmb2o3a3M3eGswZ2h0MHk2a2t6dHEzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px" alt="Hello!"/>
   </a>
 </p>
 
 <p align="center">
-I'm a passionate individual at the intersection of technology and art. I'm currently diving deep into **Machine Learning** to understand the stories data can tell, and **Front-End Development** to bring those stories to life through engaging and interactive interfaces.
+I'm a passionate individual at the intersection of technology and art. I'm currently diving deep into <strong>Machine Learning</strong> to understand the stories data can tell, and <strong>Front-End Development</strong> to bring those stories to life through engaging and interactive interfaces.
 <br><br>
-Beyond the lines of code, I have a great passion for the visual world. I believe that **Graphic Design**, **Videography**, and **Filmmaking** are powerful mediums to convey ideas and emotions. I love experimenting with visual composition, color, and narrative to create work that is not only aesthetically beautiful but also deeply meaningful.
+Beyond the lines of code, I have a great passion for the visual world. I believe that <strong>Graphic Design</strong>, <strong>Videography</strong>, and <strong>Filmmaking</strong> are powerful mediums to convey ideas and emotions. I love experimenting with visual composition, color, and narrative to create work that is not only aesthetically beautiful but also deeply meaningful.
 </p>
 
 ---
@@ -106,7 +107,7 @@ Beyond the lines of code, I have a great passion for the visual world. I believe
 
 ## 🔭 Past Experience
 
-My previous projects were centered around **Digital Image Processing** and **Computer Vision**. I have hands-on experience in developing systems for object detection, image classification, and feature extraction.
+My journey into technology began with a fascination for how machines "see." My previous projects were centered around **Digital Image Processing** and **Computer Vision**. I have hands-on experience in developing systems for object detection, image classification, and feature extraction. This foundational knowledge in visual data analysis is what now fuels my interest in both the artistic and machine learning aspects of my work.
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -116,13 +117,33 @@ My previous projects were centered around **Digital Image Processing** and **Com
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/NalendraMarchelo">
-    <img src="https://github-readme-stats.vercel.app/api?username=NalendraMarchelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Nalendra Marchelo's GitHub Stats"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=NalendraMarchelo&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NalendraMarchelo&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NalendraMarchelo&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NalendraMarchelo&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ⚡ Fun Facts
+
+Here are a few things you might not know about me:
+
+- 🎬 My ultimate dream project is to merge all my passions
+- 💻 I believe a coder's setup is a ritual. For me, the perfect coding session involves a lofi hip-hop playlist and the Dracula theme on my editor—it's my digital version of setting the scene.
+- 🎨 I have a soft spot for every Chrisophar Nolan films. Also I like Coming of Age genres.
 
 ---
 
@@ -144,5 +165,7 @@ My previous projects were centered around **Digital Image Processing** and **Com
   </a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NalendraMarchelo&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=NalendraMarchelo&icon=0&color=0" alt="Visitor Count"/>
+  </a>
 </p>
