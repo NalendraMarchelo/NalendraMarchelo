@@ -165,7 +165,5 @@ Here are a few things you might not know about me:
   </a>
 </p>
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=NalendraMarchelo&icon=0&color=0" alt="Visitor Count"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=NalendraMarchelo&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
